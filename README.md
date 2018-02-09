@@ -1,40 +1,76 @@
-# Linux-Commands
-
 nohup -- afte rlogout
+
+
+
 inode = file id
+
 Crontab - execute a task repetedly
+
 rm -remove a file
+
 mv - change file name /move file name
+
 touch - create anew file
+
 find - search for file/files
+
 1 = x
+
 2 = write
+
 4 = read
+
 UMASK  = set file permissions
+
 which = know pathof command
+
 yanking  = copy/paste
+
 shebang  = first line
+
 unset = delete a variable value
+
 expr = perform math opraitons
+
 here  = A here document is used to redirect input into an interactive shell script or program.
+
 SUID  = pass current user privalge to the process
+
 alias = create altenate name for a command
+
 cmp /diff
+
 pipe
+
 df-- disk free space
+
 uname - basic inof on server
+
+
 
 https://www.pcworld.com/article/3138096/linux/5-terminal-commands-every-linux-newbie-should-know.html
 
+
+
 tty- terminal type
 
+
+
  telnet – used for remote login
-– ping – an echo request for testing connectivity
-– su – user switching command
-– ftp – file transfer protocol used for copying files
-– finger – information gathering command
+
+ – ping – an echo request for testing connectivity
+–
+ su – user switching command
+
+ – ftp – file transfer protocol used for copying files
+–
+ finger – information gathering command
+
+ 
 
 tee -he tee command does two things: one is to get data from the standard input and send it to standard output; the second is that it redirects a copy of that input data into a file that was specified.
+
+
 cat vs more- more displays in one page
 
 sort - sort file contents
